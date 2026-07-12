@@ -2,4 +2,5 @@
  1. Download the handout for Intro to summer
  2. open it with sublime
  4. Edit the text file
+ Noam
  5. Submit it [here](https://forms.gle/VneSaAP683p4EKC66)
